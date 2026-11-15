@@ -1,4 +1,4 @@
-## Inventory Management System
+# Inventory Management System
 
 A Python-based Inventory Management System built using Object-Oriented Programming (OOP). It helps manage products, track stock, and calculate total inventory value through a menu-driven command-line interface.
 
