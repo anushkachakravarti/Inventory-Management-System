@@ -2,6 +2,16 @@
 
 A Python-based Inventory Management System built using Object-Oriented Programming (OOP). It helps manage products, track stock, and calculate total inventory value through a menu-driven command-line interface.
 
+## Key Questions & Problems Solved
+
+This system was built to answer critical day-to-day inventory questions without manual paperwork:
+
+- **Stock Availability:** Which products are currently in stock, and what are their exact quantities and prices?
+- **Low-Stock Prevention:** Which items are running low and need immediate restocking before they run out?
+- **Inventory Valuation:** What is the total financial value of all products currently held in stock?
+- **Quick Lookup & Updates:** How can specific items be quickly located by Product ID and updated when prices or stock levels change?
+- **Data Persistence:** How can inventory records be saved safely so data is not lost when the program closes?
+
 ## Features
 
 - Add new products
